@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-A basic Iem Based Movie Recommendation system build in Python with help of Numpy, Pandas and MovieLens 100k dataset .
+A basic item Based Movie Recommendation system build in Python with help of Numpy, Pandas and MovieLens 100k dataset .
 
 ## Getting Started
 * All the tables and visualizations are made on MovieLens 100k dataset.<br>
